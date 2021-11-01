@@ -18,6 +18,8 @@ This dataset contains
 •	region sales
 •	Platform
 •	Year
+
+
 Tools
 There are tools that will be used to achieve the goal of this study, such as: seabern
 , matplotlib, pandas, numpy for analyze
