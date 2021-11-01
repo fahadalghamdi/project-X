@@ -1,0 +1,27 @@
+Project Proposal
+This repo is one of the T5 Bootcamp requirements 
+
+
+Abstract
+The video games market has grown at a rapid rate(covid-19) during the pandemic, with everyone having to stay at home for extended periods as a result of the closures.
+Saudi Arabia aims to consolidate its position as a regional technical center for the most important entrepreneurs, innovators and programmers from the region and the world, enhance the digital capabilities of Saudi youth, and encourage innovation and creativity; As part of efforts to achieve Vision 2030.
+
+
+
+Dataset(Features)
+
+to achieve the goal of this study the dataset Video_Games_Sales will be used. This dataset can be found at Kaggle
+
+
+This dataset contains
+•	Video Games
+•	region sales
+•	Platform
+•	Year
+Tools
+There are tools that will be used to achieve the goal of this study, such as: seabern
+, matplotlib, pandas, numpy for analyze
+the data and train a model. The work will be done through Jupyter notebook.
+
+
+
